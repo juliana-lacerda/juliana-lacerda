@@ -20,7 +20,7 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <img width="120px" src="https://www.ambientelivre.com.br/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg" title = "APACHE ZEPPELIN"/>
 <img width="60px" src="https://ih1.redbubble.net/image.1580554032.7677/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" title = "APACHE AIRFLOW"/>
 <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" title = "SPARK"/>
-<img width="120px" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" title = "LINUX"/>
+<img width="110px" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" title = "LINUX"/>
 <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" title = "SQL"/>
 <img width="100px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title = "GIT"/>
 </p>
