@@ -20,7 +20,7 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <img width="120px" src="https://www.ambientelivre.com.br/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg" title = "APACHE ZEPPELIN"/>
 <img width="60px" src="https://ih1.redbubble.net/image.1580554032.7677/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" title = "APACHE AIRFLOW"/>
 <img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" title = "SPARK"/>
-<img width="60px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://res.cloudinary.com/teepublic/image/private/s--Mq68Tr4q--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_36538b,e_outline:48/co_36538b,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1548891325/production/designs/4116191_0.jpg)" title = "LINUX"/>
+<img width="60px" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" title = "LINUX"/>
 <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" title = "SQL"/>
 <img width="100px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title = "GIT"/>
 </p>
