@@ -12,7 +12,7 @@ I'm a Data Scientist who has experience with machine learning, deep learning, da
 
 PhD in Applied Computing at National Institute for Space Research (INPE). MBA in Data Science and Analytics in progress at University of São Paulo (Esalq-USP). Master in Applied Computing at National Institute for Space Research (INPE). Graduate in Physics at University of São Paulo (IF-USP). Graduate in Applied and Computational Mathematics at University of São Paulo (ICMC-USP).
 
-### 🖥️ Tecnologias e Ferramentas 
+### 🖥️ Technologies and Softwares
 <p align="left">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "SQL"/>
