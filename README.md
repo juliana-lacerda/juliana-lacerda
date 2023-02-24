@@ -23,7 +23,7 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 ##
 <p align="center">
 <a href="https://github.com/lacerda-juliana">
-  <img height="180em" width='300px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliana-lacerda&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='300px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliana-lacerda&layout=compact&langs_count=8&theme=light"/>
+  <img height="180em" width='400px' src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliana-lacerda&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='400px' src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliana-lacerda&layout=compact&langs_count=8&theme=light"/>
 </a>
 </p>
