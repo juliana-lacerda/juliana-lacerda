@@ -15,14 +15,14 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 ### 🖥️ Technologies and Softwares
 <p align="left">
 <img width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title = "PYTHON"/>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title = "R"/>
-<img width="60px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title = "POWER BI"/>
-<img width="60px" src="https://candidosalesg.files.wordpress.com/2016/07/hqdefault-1.jpg" title = "APACHE ZEPPELIN"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title = "R"/>
+<img width="90px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title = "POWER BI"/>
+<img width="80px" src="https://candidosalesg.files.wordpress.com/2016/07/hqdefault-1.jpg" title = "APACHE ZEPPELIN"/>
 <img width="50px" src="https://ih1.redbubble.net/image.1580554032.7677/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" title = "APACHE AIRFLOW"/>
-<img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" title = "SPARK"/>
+<img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" title = "SPARK"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title = "LINUX"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "SQL"/>
-<img width="40px" src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg" title = "GIT"/>
+<img width="40px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title = "GIT"/>
 </p>
 
 
