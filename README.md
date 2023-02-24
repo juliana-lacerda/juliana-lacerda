@@ -18,3 +18,12 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title = "SQL"/>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/>
 </p>
+
+
+##
+<p align="center">
+<a href="https://github.com/lacerda-juliana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliana-lacerda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliana-lacerda&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
