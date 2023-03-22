@@ -12,6 +12,12 @@ I'm a Data Scientist who has experience with machine learning, deep learning, da
 
 PhD in Applied Computing at National Institute for Space Research (INPE). MBA in Data Science and Analytics in progress at University of São Paulo (Esalq-USP). Master in Applied Computing at National Institute for Space Research (INPE). Graduate in Physics at University of São Paulo (IF-USP). Graduate in Applied and Computational Mathematics at University of São Paulo (ICMC-USP).
 
+### <img width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" title = "Repositories"/> Main Repositories (more to come soon):
+
+#### Time Series Analysis
+<a href="https://github.com/juliana-lacerda/Practical-Time-Series-Analysis---The-State-University-of-New-York"> Practical-Time-Series-Analysis</a> (SARIMA and Holt-Winters methods with stationarity test, residual and error analysis)
+ 
+ 
 ### 🖥️ Technologies and Softwares
 <p align="left">
 <img width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title = "PYTHON"/>
@@ -24,7 +30,6 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" title = "SQL"/>
 <img width="100px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title = "GIT"/>
 </p>
-
 
 
 ##
