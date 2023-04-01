@@ -16,6 +16,9 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 
 #### Time Series Analysis
 <a href="https://github.com/juliana-lacerda/Practical-Time-Series-Analysis---The-State-University-of-New-York"> Practical-Time-Series-Analysis</a> (SARIMA and Holt-Winters methods with stationarity test, residual and error analysis)
+
+#### Computer Vision
+<a href="https://github.com/juliana-lacerda/binary-image-classification-with-tensorflow-COVID-19-detection"> Chest X-Ray Image Classification with Deep Learning for COVID-19 Detection </a> (Tensorflow, Functional API and Convolutional Neural Networks)
  
  
 ### 🖥️ Technologies and Softwares
