@@ -18,13 +18,14 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <a href="https://github.com/juliana-lacerda/Practical-Time-Series-Analysis---The-State-University-of-New-York"> Practical Time Series Analysis</a> (SARIMA and Holt-Winters methods with stationarity test, residual and error analysis)
 
 #### Computer Vision
-<a href="https://github.com/juliana-lacerda/binary-image-classification-with-tensorflow-COVID-19-detection"> Chest X-Ray Image Classification with Deep Learning for COVID-19 Detection </a> (Tensorflow, Functional API and Convolutional Neural Networks)
+<a href="https://github.com/juliana-lacerda/binary-image-classification-with-tensorflow-COVID-19-detection"> Chest X-Ray Image Classification with Deep Learning for COVID-19 Detection </a> (Tensorflow, Functional API, Keras and Convolutional Neural Networks)
  
  
 ### 🖥️ Technologies and Softwares
 <p align="left">
 <img width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title = "PYTHON"/>
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title = "R"/>
+<img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" title = "Tensorflow"/>
 <img width="100px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title = "POWER BI"/>
 <img width="120px" src="https://www.ambientelivre.com.br/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg" title = "APACHE ZEPPELIN"/>
 <img width="60px" src="https://ih1.redbubble.net/image.1580554032.7677/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" title = "APACHE AIRFLOW"/>
