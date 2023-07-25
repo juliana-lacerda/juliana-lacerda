@@ -10,7 +10,7 @@
 ## Hello
 I'm a Data Scientist who has experience with machine learning, deep learning, data visualization, Big Data, social network analysis, dynamical systems, complex networks and scientific computing.
 
-PhD in Applied Computing at National Institute for Space Research (INPE). MBA in Data Science and Analytics in progress at University of São Paulo (Esalq-USP). Master in Applied Computing at National Institute for Space Research (INPE). Graduate in Physics at University of São Paulo (IF-USP). Graduate in Applied and Computational Mathematics at University of São Paulo (ICMC-USP).
+PhD in Applied Computing at National Institute for Space Research (INPE). MBA in Data Science and Analytics at University of São Paulo (Esalq-USP). Master in Applied Computing at National Institute for Space Research (INPE). Graduate in Physics at University of São Paulo (IF-USP). Graduate in Applied and Computational Mathematics at University of São Paulo (ICMC-USP).
 
 ### <img width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" title = "Repositories"/> Main Repositories (more to come soon):
 
