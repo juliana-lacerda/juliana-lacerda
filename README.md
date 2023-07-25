@@ -19,21 +19,10 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 
 #### Computer Vision
 <a href="https://github.com/juliana-lacerda/binary-image-classification-with-tensorflow-COVID-19-detection"> Chest X-Ray Image Classification with Deep Learning for COVID-19 Detection </a> (Tensorflow, Functional API, Keras and Convolutional Neural Networks)
- 
- 
-### 🖥️ Technologies and Softwares
-<p align="left">
-<img width="60px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title = "PYTHON"/>
-<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title = "R"/>
-<img width="130px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" title = "Tensorflow"/>
-<img width="100px" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title = "POWER BI"/>
-<img width="120px" src="https://www.ambientelivre.com.br/media/k2/items/cache/23f6a067599ae98276b159b7685c0abf_L.jpg" title = "APACHE ZEPPELIN"/>
-<img width="60px" src="https://ih1.redbubble.net/image.1580554032.7677/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" title = "APACHE AIRFLOW"/>
-<img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" title = "SPARK"/>
-<img width="110px" src="https://www.freeiconspng.com/thumbs/linux-icon/linux-icon-19.png" title = "LINUX"/>
-<img width="60px" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" title = "SQL"/>
-<img width="100px" src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" title = "GIT"/>
-</p>
+
+ #### Unsupervised ML
+ <a href="https://github.com/juliana-lacerda/unsupervised-ml-mca-kmeans-house-price"> Unsupervised learning applied to a house price data set with numeric and categorical features </a> (Multiple Component Analysis, Kmeans Clustering, Chi-square and F tests)
+
 
 
 ##
