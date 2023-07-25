@@ -21,7 +21,7 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
 <a href="https://github.com/juliana-lacerda/binary-image-classification-with-tensorflow-COVID-19-detection"> Chest X-Ray Image Classification with Deep Learning for COVID-19 Detection </a> (Tensorflow, Functional API, Keras and Convolutional Neural Networks)
 
  #### Unsupervised ML
- <a href="https://github.com/juliana-lacerda/unsupervised-ml-mca-kmeans-house-price"> Unsupervised learning applied to a house price data set with numeric and categorical features </a> (Multiple Component Analysis, Kmeans Clustering, Chi-square and F tests)
+ <a href="https://github.com/juliana-lacerda/unsupervised-ml-mca-kmeans-house-price"> Unsupervised machine learning applied to a house price data set with numeric and categorical features </a> (Multiple Component Analysis, Kmeans Clustering, Chi-square and F tests)
 
 
 
