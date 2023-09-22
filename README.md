@@ -23,6 +23,8 @@ PhD in Applied Computing at National Institute for Space Research (INPE). MBA in
  #### Unsupervised ML
  <a href="https://github.com/juliana-lacerda/unsupervised-ml-mca-kmeans-house-price"> Unsupervised machine learning applied to a house price data set with numeric and categorical features </a> (Multiple Component Analysis, Kmeans Clustering, Chi-square and F tests)
 
+ #### Supervised ML
+ <a href="https://github.com/juliana-lacerda/supervised-ml-nonlinear-regression-with-dummies-health-insurance"> Multiple Non-linear Regression with Dummies </a> (OLS, Box-Cox Transformation, Shapiro-Francia, Breusch-Pagan and multicollinearity tests.)
 
 
 ##
